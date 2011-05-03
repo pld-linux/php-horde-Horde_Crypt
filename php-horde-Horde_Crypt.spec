@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	e2816ff003a078cbb8c101f8d615907e
-URL:		http://pear.horde.org/package/Horde_Crypt/
+URL:		https://github.com/horde/horde/tree/master/framework/Crypt/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
