@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Cryptography API
 Name:		php-horde-Horde_Crypt
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	ee434b0e273cb3e9de6c906edd530172
+# Source0-md5:	1732c7cc0cbf761988c7495f1a3d4566
 URL:		https://github.com/horde/horde/tree/master/framework/Crypt/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
