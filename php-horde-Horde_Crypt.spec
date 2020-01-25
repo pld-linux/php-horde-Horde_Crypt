@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Crypt
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Cryptography API
 Name:		php-horde-Horde_Crypt
 Version:	1.1.2
